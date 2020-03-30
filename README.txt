@@ -3,6 +3,7 @@ Hello again!
 Updating README with new information
 <<<<<<< HEAD
 Another line to add on remote location
+<<<<<<< HEAD
 Another branch added
 =======
 <<<<<<< Updated upstream
@@ -14,3 +15,6 @@ Another branch added
 Feature 2 changes
 >>>>>>> Stashed changes
 >>>>>>> fix1
+=======
+Added text on new branch
+>>>>>>> newone
